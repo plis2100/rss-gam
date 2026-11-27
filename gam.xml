@@ -6,7 +6,14 @@
     <description>Últimas noticias publicadas por GAM Rentals</description>
     <language>es-es</language>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-gam/main/gam.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 15:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:24:21 +0000</lastBuildDate>
+    <item>
+      <title>El BEI y GAM firman un préstamo de 40 millones de euros para apoyar la economía circular, la electrificación de sus flotas y la digitalización de sus operaciones en España</title>
+      <link>https://gamrentals.com/es/noticias/bei-gam-prestamo-40-millones-economia-circular</link>
+      <guid isPermaLink="true">https://gamrentals.com/es/noticias/bei-gam-prestamo-40-millones-economia-circular</guid>
+      <description>El BEI y GAM firman un préstamo de 40 millones de euros para apoyar la economía circular, la electrificación de sus flotas y la digitalización de sus operaciones en España</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>GAM se incorpora a Compromiso Asturias XXI para impulsar el talento y la competitividad empresarial en Asturias</title>
       <link>https://gamrentals.com/es/noticias/gam-se-incorpora-a-compromiso-asturias-xxi</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://gamrentals.com/es/noticias/gam-supera-los-73-millones-de-euros-en-ingresos-en-el-primer-trimestre-de-2025</guid>
       <description>GAM, General de Alquiler de Maquinaria, es una empresa multinacional española especializada en servicios integrales de gestión y alquiler de maquinaria</description>
       <pubDate>Mon, 02 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GAM incorpora a CTE a su catálogo como Partner en España y Portugal</title>
-      <link>https://gamrentals.com/es/noticias/gam-incorpora-a-cte-a-su-catalogo-como-patner-en-espana-y-portugal</link>
-      <guid isPermaLink="true">https://gamrentals.com/es/noticias/gam-incorpora-a-cte-a-su-catalogo-como-patner-en-espana-y-portugal</guid>
-      <description>GAM, General de Alquiler de Maquinaria, es una empresa multinacional española especializada en servicios integrales de gestión y alquiler de maquinaria</description>
-      <pubDate>Wed, 09 Apr 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
